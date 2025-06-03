@@ -9,7 +9,7 @@ Welcome to **MAnonymousSmart** — a modern tech company led by a Computer Scien
 At MAnonymousSmart, we build and provide:
 
 - 🔐 **Secure Tech Solutions** — Smart apps, systems, and digital tools for everyday use
-- 📱 **Digital Services** — From crypto to account opening, POS systems, and mobile support
+- 📱 **Digital Services** — From crypto to Developer and mobile support
 - 🌐 **Website Development** — Fast, modern, mobile-ready websites and online platforms
 - 💡 **Innovative Projects** — Bringing creative tech ideas to life
 
@@ -24,9 +24,10 @@ To simplify digital technology for businesses and individuals, making it **acces
 ## 🛠️ Tech Stack
 
 - HTML / CSS / JavaScript
-- Python & C#,GO and Flask (or Node.js)
+- Python & C#,GO,C++ and Flask (or Node.js)
 - Git & GitHub
 - Firebase / MongoDB
+- Animation creating
 - More coming soon...
 
 ---
@@ -43,9 +44,9 @@ To simplify digital technology for businesses and individuals, making it **acces
 
 📧 Email: MAnonymousSmart@gmail.com 
 🌐 Website: *Coming soon*  
-📍 Based in: Kamitawa, Kwara State, Nigeria
+📍 Based in: katsina, katsina State, Nigeria
 
 ---
 
 > This is the official open-source hub for MAnonymousSmart. Feel free to follow and watch our progress as we grow!
-
+-  INSHALLAHU!!..(by the grace of GOD)
